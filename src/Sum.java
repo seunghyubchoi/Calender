@@ -4,6 +4,8 @@ public class Sum {
 	public static void main(String[] args) {
 		System.out.println("두 수를 입력하세요.");
 		Scanner scanner = new Scanner(System.in);
+		//구구단에서 쓰던 것
+		
 //		String inputValue = scanner.nextLine();
 //		String[] splitedValue = inputValue.split(" ");
 //		int first = Integer.parseInt(splitedValue[0]);
